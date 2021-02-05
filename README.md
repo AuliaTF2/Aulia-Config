@@ -5,3 +5,5 @@ Welcome to my config, my config is a combination of mastercoms, comanglia, and a
 1.
 How to download it? simply go to the "code" tab and download in a zip format.
 then the config on the cfg folder or the user if you used mastercomfig
+
+also always check for updates on the config since i always change stuff, and also i recommend go back to this site every week and update it.
