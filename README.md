@@ -1,9 +1,6 @@
 # Aulia-Config
 Welcome to my config, my config is a combination of mastercoms, comanglia, and aar. suited for optimizations and some essential thing to have even in casual play
 
-
+# Download
 1.
-How to download it? simply go to the "code" tab and download in a zip format.
-then the config on the cfg folder or the user if you used mastercomfig
-
-also always check for updates on the config since i always change stuff, and also i recommend go back to this site every week and update it.
+How to download it? simply press this https://github.com/AuliaTF2/Aulia-Config/archive/main.zip
