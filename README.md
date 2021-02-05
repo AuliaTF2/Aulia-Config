@@ -3,3 +3,6 @@ Welcome to my config, my config is a combination of mastercoms, comanglia, and a
 
 # Download
 How to download it? simply press this https://github.com/AuliaTF2/Aulia-Config/archive/main.zip
+
+# Version
+Currently version 2.1.1
